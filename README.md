@@ -35,6 +35,7 @@ sentiment_analysis/
 ├── sentiment_analysis.ipynb       # Main notebook with complete analysis
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project documentation
+├── .gitignore                     # Git ignore file for Python projects
 ├── .vscode/
 │   └── tasks.json                 # VS Code tasks configuration
 └── .github/
