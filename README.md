@@ -1,5 +1,4 @@
-# Sentiment Analysis with NLP - Task 2
-## CODTECH Internship Project
+# Sentiment Analysis with NLP 
 
 This project demonstrates sentiment analysis on customer reviews using TF-IDF vectorization and logistic regression classification.
 
@@ -143,14 +142,5 @@ Feel free to fork this project and submit improvements:
 - Better visualization techniques
 - Performance optimizations
 
-## 📄 License
-
-This project is created for educational purposes as part of the CODTECH internship program.
-
-## 👨‍💻 Author
-
-Created as part of CODTECH Internship Task 2 - Sentiment Analysis with NLP
-
----
 
 **Note**: This is a demonstration project using sample data created within the notebook. The dataset contains 25 customer reviews with positive, negative, and neutral sentiments. For production use, consider using larger, real-world datasets and more sophisticated models.
